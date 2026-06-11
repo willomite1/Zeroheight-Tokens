@@ -1,4 +1,4 @@
-# tailwind-tokens
+# zeroheight-tokens
 
 Test repository for the IntraFi Universal Design System token automation pipeline.
 
