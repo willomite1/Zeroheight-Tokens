@@ -1,0 +1,2684 @@
+{
+  "Primitive": {
+    "border": {
+      "radius": {
+        "round": {
+          "$value": 9999,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356951
+          }
+        },
+        "12": {
+          "$value": 12,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356950
+          }
+        },
+        "8": {
+          "$value": 8,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356949
+          }
+        },
+        "4": {
+          "$value": 4,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356948
+          }
+        },
+        "2": {
+          "$value": 2,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356945
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271769
+        }
+      },
+      "width": {
+        "4": {
+          "$value": 4,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356954
+          }
+        },
+        "2": {
+          "$value": 2,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356953
+          }
+        },
+        "1": {
+          "$value": 1,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356952
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271770
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271768
+      }
+    },
+    "color": {
+      "alpha": {
+        "black": {
+          "16": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "alpha": 0.16,
+              "hex": "#000000"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356930
+            }
+          },
+          "10": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "alpha": 0.1,
+              "hex": "#000000"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356929
+            }
+          },
+          "8": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "alpha": 0.08,
+              "hex": "#000000"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356928
+            }
+          },
+          "5": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "alpha": 0.05,
+              "hex": "#000000"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356927
+            }
+          },
+          "2": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.0,
+                0.0
+              ],
+              "alpha": 0.02,
+              "hex": "#000000"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356926
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271773
+          }
+        },
+        "blue": {
+          "15": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.38823529411764707,
+                0.8980392156862745
+              ],
+              "alpha": 0.15,
+              "hex": "#0063e5"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356922
+            }
+          },
+          "12": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.38823529411764707,
+                0.8980392156862745
+              ],
+              "alpha": 0.12,
+              "hex": "#0063e5"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356921
+            }
+          },
+          "10": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.38823529411764707,
+                0.8980392156862745
+              ],
+              "alpha": 0.1,
+              "hex": "#0063e5"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356920
+            }
+          },
+          "8": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.38823529411764707,
+                0.8980392156862745
+              ],
+              "alpha": 0.08,
+              "hex": "#0063e5"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356919
+            }
+          },
+          "6": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.38823529411764707,
+                0.8980392156862745
+              ],
+              "alpha": 0.06,
+              "hex": "#0063e5"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356918
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271774
+          }
+        },
+        "white": {
+          "50": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "alpha": 0.5,
+              "hex": "#ffffff"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356925
+            }
+          },
+          "20": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "alpha": 0.2,
+              "hex": "#ffffff"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356924
+            }
+          },
+          "16": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "alpha": 0.16,
+              "hex": "#ffffff"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356923
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271775
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271772
+        }
+      },
+      "brand": {
+        "100": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.011764705882352941,
+              0.050980392156862744,
+              0.24705882352941178
+            ],
+            "alpha": 1.0,
+            "hex": "#030d3f"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356877
+          }
+        },
+        "90": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0196078431372549,
+              0.07058823529411765,
+              0.3607843137254902
+            ],
+            "alpha": 1.0,
+            "hex": "#05125c"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356875
+          }
+        },
+        "60": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.2196078431372549,
+              0.5725490196078431,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#3892ff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356873
+          }
+        },
+        "50": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.4392156862745098,
+              0.7294117647058823,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#70baff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356872
+          }
+        },
+        "40": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.6,
+              0.807843137254902,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#99ceff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356870
+          }
+        },
+        "30": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8,
+              0.9019607843137255,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#cce6ff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356867
+          }
+        },
+        "20": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.8980392156862745,
+              0.9529411764705882,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#e5f3ff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356866
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271776
+        }
+      },
+      "palette": {
+        "blue": {
+          "90": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.03137254901960784,
+                0.11764705882352941,
+                0.5882352941176471
+              ],
+              "alpha": 1.0,
+              "hex": "#081e96"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356903
+            }
+          },
+          "60": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.38823529411764707,
+                0.8980392156862745
+              ],
+              "alpha": 1.0,
+              "hex": "#0063e5"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356902
+            }
+          },
+          "40": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.6745098039215687,
+                0.8392156862745098,
+                0.9647058823529412
+              ],
+              "alpha": 1.0,
+              "hex": "#acd6f6"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356901
+            }
+          },
+          "30": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9294117647058824,
+                0.9647058823529412,
+                0.9921568627450981
+              ],
+              "alpha": 1.0,
+              "hex": "#edf6fd"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356900
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271778
+          }
+        },
+        "green": {
+          "90": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.10588235294117647,
+                0.34901960784313724,
+                0.1843137254901961
+              ],
+              "alpha": 1.0,
+              "hex": "#1b592f"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356895
+            }
+          },
+          "60": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.35294117647058826,
+                0.9176470588235294,
+                0.5294117647058824
+              ],
+              "alpha": 1.0,
+              "hex": "#5aea87"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356894
+            }
+          },
+          "40": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.6196078431372549,
+                1.0,
+                0.7411764705882353
+              ],
+              "alpha": 1.0,
+              "hex": "#9effbd"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356893
+            }
+          },
+          "30": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.8784313725490196,
+                1.0,
+                0.9176470588235294
+              ],
+              "alpha": 1.0,
+              "hex": "#e0ffea"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356892
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271779
+          }
+        },
+        "mint": {
+          "90": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.3764705882352941,
+                0.396078431372549
+              ],
+              "alpha": 1.0,
+              "hex": "#006065"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356917
+            }
+          },
+          "60": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.0,
+                0.6274509803921569,
+                0.6588235294117647
+              ],
+              "alpha": 1.0,
+              "hex": "#00a0a8"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356916
+            }
+          },
+          "30": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.6549019607843137,
+                0.9176470588235294,
+                0.9333333333333333
+              ],
+              "alpha": 1.0,
+              "hex": "#a7eaee"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356915
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271780
+          }
+        },
+        "neutral": {
+          "100": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.10980392156862745,
+                0.11764705882352941,
+                0.13333333333333333
+              ],
+              "alpha": 1.0,
+              "hex": "#1c1e22"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356914
+            }
+          },
+          "90": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.18823529411764706,
+                0.20784313725490197,
+                0.25098039215686274
+              ],
+              "alpha": 1.0,
+              "hex": "#303540"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356913
+            }
+          },
+          "80": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.27058823529411763,
+                0.2901960784313726,
+                0.32941176470588235
+              ],
+              "alpha": 1.0,
+              "hex": "#454a54"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356912
+            }
+          },
+          "75": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.40784313725490196,
+                0.43137254901960786,
+                0.47843137254901963
+              ],
+              "alpha": 1.0,
+              "hex": "#686e7a"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356911
+            }
+          },
+          "70": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.5254901960784314,
+                0.5647058823529412,
+                0.6274509803921569
+              ],
+              "alpha": 1.0,
+              "hex": "#8690a0"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356910
+            }
+          },
+          "60": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.6980392156862745,
+                0.7215686274509804,
+                0.7607843137254902
+              ],
+              "alpha": 1.0,
+              "hex": "#b2b8c2"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356909
+            }
+          },
+          "50": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.8470588235294118,
+                0.8627450980392157,
+                0.8823529411764706
+              ],
+              "alpha": 1.0,
+              "hex": "#d8dce1"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356908
+            }
+          },
+          "40": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9254901960784314,
+                0.9294117647058824,
+                0.9411764705882353
+              ],
+              "alpha": 1.0,
+              "hex": "#ecedf0"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356907
+            }
+          },
+          "30": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9411764705882353,
+                0.9529411764705882,
+                0.9686274509803922
+              ],
+              "alpha": 1.0,
+              "hex": "#f0f3f7"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356906
+            }
+          },
+          "20": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9686274509803922,
+                0.9764705882352941,
+                0.984313725490196
+              ],
+              "alpha": 1.0,
+              "hex": "#f7f9fb"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356905
+            }
+          },
+          "10": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "alpha": 1.0,
+              "hex": "#ffffff"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356904
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271781
+          }
+        },
+        "orange": {
+          "90": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.5254901960784314,
+                0.3137254901960784,
+                0.0
+              ],
+              "alpha": 1.0,
+              "hex": "#865000"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356899
+            }
+          },
+          "60": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                0.7215686274509804,
+                0.3058823529411765
+              ],
+              "alpha": 1.0,
+              "hex": "#ffb84e"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356898
+            }
+          },
+          "40": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                0.8509803921568627,
+                0.6274509803921569
+              ],
+              "alpha": 1.0,
+              "hex": "#ffd9a0"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356897
+            }
+          },
+          "30": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                0.9411764705882353,
+                0.8509803921568627
+              ],
+              "alpha": 1.0,
+              "hex": "#fff0d9"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356896
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271782
+          }
+        },
+        "red": {
+          "90": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.5019607843137255,
+                0.08235294117647059,
+                0.11372549019607843
+              ],
+              "alpha": 1.0,
+              "hex": "#80151d"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356891
+            }
+          },
+          "70": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.8823529411764706,
+                0.03137254901960784,
+                0.09411764705882353
+              ],
+              "alpha": 1.0,
+              "hex": "#e10818"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356890
+            }
+          },
+          "60": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                0.9921568627450981,
+                0.2549019607843137,
+                0.30980392156862746
+              ],
+              "alpha": 1.0,
+              "hex": "#fd414f"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356889
+            }
+          },
+          "40": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                0.7215686274509804,
+                0.7411764705882353
+              ],
+              "alpha": 1.0,
+              "hex": "#ffb8bd"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356888
+            }
+          },
+          "30": {
+            "$value": {
+              "colorSpace": "srgb",
+              "components": [
+                1.0,
+                0.8980392156862745,
+                0.9058823529411765
+              ],
+              "alpha": 1.0,
+              "hex": "#ffe5e7"
+            },
+            "$type": "color",
+            "$extensions": {
+              "com.zeroheight.tokenId": 25356887
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271783
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271777
+        }
+      },
+      "static": {
+        "transparent": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "alpha": 0.0,
+            "hex": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356933
+          }
+        },
+        "black": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "alpha": 1.0,
+            "hex": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356932
+          }
+        },
+        "white": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              1.0,
+              1.0,
+              1.0
+            ],
+            "alpha": 1.0,
+            "hex": "#ffffff"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356931
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271784
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271771
+      }
+    },
+    "shadow": {
+      "lg": {
+        "color": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "alpha": 0.16,
+            "hex": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356969
+          }
+        },
+        "spread": {
+          "$value": 0,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356968
+          }
+        },
+        "blur": {
+          "$value": 36,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356967
+          }
+        },
+        "y": {
+          "$value": 12,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356966
+          }
+        },
+        "x": {
+          "$value": 0,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356965
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271786
+        }
+      },
+      "md": {
+        "color": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "alpha": 0.1,
+            "hex": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356964
+          }
+        },
+        "spread": {
+          "$value": 0,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356963
+          }
+        },
+        "blur": {
+          "$value": 12,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356962
+          }
+        },
+        "y": {
+          "$value": 8,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356961
+          }
+        },
+        "x": {
+          "$value": 0,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356960
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271787
+        }
+      },
+      "sm": {
+        "color": {
+          "$value": {
+            "colorSpace": "srgb",
+            "components": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "alpha": 0.1,
+            "hex": "#000000"
+          },
+          "$type": "color",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356959
+          }
+        },
+        "spread": {
+          "$value": 0,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356958
+          }
+        },
+        "blur": {
+          "$value": 4,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356957
+          }
+        },
+        "y": {
+          "$value": 2,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356956
+          }
+        },
+        "x": {
+          "$value": 0,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356955
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271788
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271785
+      }
+    },
+    "spacing": {
+      "80": {
+        "$value": 80,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356947
+        }
+      },
+      "64": {
+        "$value": 64,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356946
+        }
+      },
+      "56": {
+        "$value": 56,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356944
+        }
+      },
+      "48": {
+        "$value": 48,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356943
+        }
+      },
+      "40": {
+        "$value": 40,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356942
+        }
+      },
+      "32": {
+        "$value": 32,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356941
+        }
+      },
+      "24": {
+        "$value": 24,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356940
+        }
+      },
+      "20": {
+        "$value": 20,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356939
+        }
+      },
+      "16": {
+        "$value": 16,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356938
+        }
+      },
+      "12": {
+        "$value": 12,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356937
+        }
+      },
+      "8": {
+        "$value": 8,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356936
+        }
+      },
+      "4": {
+        "$value": 4,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356935
+        }
+      },
+      "2": {
+        "$value": 2,
+        "$type": "number",
+        "$extensions": {
+          "com.zeroheight.tokenId": 25356934
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271789
+      }
+    },
+    "typography": {
+      "font-family": {
+        "open-sans": {
+          "$value": "Open Sans",
+          "$type": "string",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356852
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271791
+        }
+      },
+      "font-size": {
+        "28": {
+          "$value": 28,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356859
+          }
+        },
+        "24": {
+          "$value": 24,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356858
+          }
+        },
+        "20": {
+          "$value": 20,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356857
+          }
+        },
+        "16": {
+          "$value": 16,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356856
+          }
+        },
+        "14": {
+          "$value": 14,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356855
+          }
+        },
+        "12": {
+          "$value": 12,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356854
+          }
+        },
+        "10": {
+          "$value": 10,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356853
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271792
+        }
+      },
+      "font-weight": {
+        "700": {
+          "$value": 700,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356862
+          }
+        },
+        "600": {
+          "$value": 600,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356861
+          }
+        },
+        "400": {
+          "$value": 400,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356860
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271793
+        }
+      },
+      "letter-spacing": {
+        "minus-1-6": {
+          "$value": -0.32,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356883
+          }
+        },
+        "minus-1-half": {
+          "$value": -0.3,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356882
+          }
+        },
+        "minus-2": {
+          "$value": -0.56,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356881
+          }
+        },
+        "5": {
+          "$value": 5,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356880
+          }
+        },
+        "pos-5-percent": {
+          "$value": 0.55,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356879
+          }
+        },
+        "0": {
+          "$value": 0,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356878
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271794
+        }
+      },
+      "line-height": {
+        "32": {
+          "$value": 32,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356876
+          }
+        },
+        "28": {
+          "$value": 28,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356874
+          }
+        },
+        "24": {
+          "$value": 24,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356871
+          }
+        },
+        "20": {
+          "$value": 20,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356869
+          }
+        },
+        "16": {
+          "$value": 16,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356868
+          }
+        },
+        "14": {
+          "$value": 14,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356865
+          }
+        },
+        "12": {
+          "$value": 12,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356864
+          }
+        },
+        "10": {
+          "$value": 10,
+          "$type": "number",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356863
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271795
+        }
+      },
+      "text-transform": {
+        "title-case": {
+          "$value": "title-case",
+          "$type": "string",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356886
+          }
+        },
+        "uppercase": {
+          "$value": "uppercase",
+          "$type": "string",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356885
+          }
+        },
+        "none": {
+          "$value": "none",
+          "$type": "string",
+          "$extensions": {
+            "com.zeroheight.tokenId": 25356884
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271796
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271790
+      }
+    },
+    "$extensions": {
+      "com.zeroheight.collectionId": 87554
+    }
+  },
+  "Semantic": {
+    "border": {
+      "radius": {
+        "full": {
+          "$value": "{Primitive.border.radius.round}"
+        },
+        "lg": {
+          "$value": "{Primitive.border.radius.12}"
+        },
+        "md": {
+          "$value": "{Primitive.border.radius.8}"
+        },
+        "sm": {
+          "$value": "{Primitive.border.radius.4}"
+        },
+        "xs": {
+          "$value": "{Primitive.border.radius.2}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271799
+        }
+      },
+      "width": {
+        "md": {
+          "$value": "{Primitive.border.width.4}"
+        },
+        "sm": {
+          "$value": "{Primitive.border.width.2}"
+        },
+        "xs": {
+          "$value": "{Primitive.border.width.1}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271800
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271798
+      }
+    },
+    "box-shadow": {
+      "lg": {
+        "color": {
+          "$value": "{Primitive.shadow.lg.color}"
+        },
+        "spread": {
+          "$value": "{Primitive.shadow.lg.spread}"
+        },
+        "blur": {
+          "$value": "{Primitive.shadow.lg.blur}"
+        },
+        "y": {
+          "$value": "{Primitive.shadow.lg.y}"
+        },
+        "x": {
+          "$value": "{Primitive.shadow.lg.x}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271802
+        }
+      },
+      "md": {
+        "color": {
+          "$value": "{Primitive.shadow.md.color}"
+        },
+        "spread": {
+          "$value": "{Primitive.shadow.md.spread}"
+        },
+        "blur": {
+          "$value": "{Primitive.shadow.md.blur}"
+        },
+        "y": {
+          "$value": "{Primitive.shadow.md.y}"
+        },
+        "x": {
+          "$value": "{Primitive.shadow.md.x}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271803
+        }
+      },
+      "sm": {
+        "color": {
+          "$value": "{Primitive.shadow.sm.color}"
+        },
+        "spread": {
+          "$value": "{Primitive.shadow.sm.spread}"
+        },
+        "blur": {
+          "$value": "{Primitive.shadow.sm.blur}"
+        },
+        "y": {
+          "$value": "{Primitive.shadow.sm.y}"
+        },
+        "x": {
+          "$value": "{Primitive.shadow.sm.x}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271804
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271801
+      }
+    },
+    "color": {
+      "action": {
+        "danger": {
+          "$value": "{Primitive.color.palette.red.70}"
+        },
+        "tertiary": {
+          "$value": "{Primitive.color.palette.neutral.10}"
+        },
+        "secondary": {
+          "$value": "{Primitive.color.brand.20}"
+        },
+        "primary": {
+          "$value": "{Primitive.color.palette.blue.60}"
+        },
+        "disabled": {
+          "subtle": {
+            "$value": "{Primitive.color.palette.neutral.40}"
+          },
+          "default": {
+            "$value": "{Primitive.color.palette.neutral.50}"
+          },
+          "strong": {
+            "$value": "{Primitive.color.palette.neutral.70}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271807
+          }
+        },
+        "inactive": {
+          "subtle": {
+            "$value": "{Primitive.color.palette.neutral.60}"
+          },
+          "default": {
+            "$value": "{Primitive.color.palette.neutral.70}"
+          },
+          "strong": {
+            "$value": "{Primitive.color.palette.neutral.80}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271808
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271806
+        }
+      },
+      "border": {
+        "inverse": {
+          "$value": "{Primitive.color.static.white}"
+        },
+        "strong": {
+          "$value": "{Primitive.color.palette.neutral.80}"
+        },
+        "emphasis": {
+          "$value": "{Primitive.color.palette.neutral.70}"
+        },
+        "muted": {
+          "$value": "{Primitive.color.palette.neutral.60}"
+        },
+        "default": {
+          "$value": "{Primitive.color.palette.neutral.50}"
+        },
+        "subtle": {
+          "$value": "{Primitive.color.palette.neutral.40}"
+        },
+        "brand": {
+          "secondary": {
+            "$value": "{Primitive.color.palette.blue.90}"
+          },
+          "primary": {
+            "$value": "{Primitive.color.palette.blue.60}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271810
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271809
+        }
+      },
+      "content": {
+        "inverse": {
+          "$value": "{Primitive.color.static.white}"
+        },
+        "weak": {
+          "$value": "{Primitive.color.palette.neutral.70}"
+        },
+        "muted": {
+          "$value": "{Primitive.color.palette.neutral.75}"
+        },
+        "subtle": {
+          "$value": "{Primitive.color.palette.neutral.80}"
+        },
+        "default": {
+          "$value": "{Primitive.color.palette.neutral.100}"
+        },
+        "brand": {
+          "secondary": {
+            "$value": "{Primitive.color.palette.blue.90}"
+          },
+          "primary": {
+            "$value": "{Primitive.color.palette.blue.60}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271812
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271811
+        }
+      },
+      "data": {
+        "05": {
+          "$value": "{Primitive.color.palette.mint.60}"
+        },
+        "04": {
+          "$value": "{Primitive.color.palette.orange.60}"
+        },
+        "03": {
+          "$value": "{Primitive.color.palette.green.60}"
+        },
+        "02": {
+          "$value": "{Primitive.color.palette.red.60}"
+        },
+        "01": {
+          "$value": "{Primitive.color.brand.60}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271813
+        }
+      },
+      "focus": {
+        "ring": {
+          "danger": {
+            "$value": "{Primitive.color.palette.red.70}"
+          },
+          "secondary": {
+            "$value": "{Primitive.color.palette.neutral.70}"
+          },
+          "primary": {
+            "$value": "{Primitive.color.palette.blue.60}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271815
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271814
+        }
+      },
+      "icon": {
+        "weak": {
+          "$value": "{Primitive.color.palette.neutral.70}"
+        },
+        "inverse": {
+          "$value": "{Primitive.color.palette.neutral.10}"
+        },
+        "muted": {
+          "$value": "{Primitive.color.palette.neutral.75}"
+        },
+        "subtle": {
+          "$value": "{Primitive.color.palette.neutral.80}"
+        },
+        "default": {
+          "$value": "{Primitive.color.palette.neutral.100}"
+        },
+        "brand": {
+          "secondary": {
+            "$value": "{Primitive.color.palette.blue.90}"
+          },
+          "primary": {
+            "$value": "{Primitive.color.palette.blue.60}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271817
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271816
+        }
+      },
+      "overlay": {
+        "black": {
+          "16": {
+            "$value": "{Primitive.color.alpha.black.16}"
+          },
+          "10": {
+            "$value": "{Primitive.color.alpha.black.10}"
+          },
+          "8": {
+            "$value": "{Primitive.color.alpha.black.8}"
+          },
+          "5": {
+            "$value": "{Primitive.color.alpha.black.2}"
+          },
+          "2": {
+            "$value": "{Primitive.color.alpha.black.2}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271819
+          }
+        },
+        "brand": {
+          "15": {
+            "$value": "{Primitive.color.alpha.blue.15}"
+          },
+          "12": {
+            "$value": "{Primitive.color.alpha.blue.12}"
+          },
+          "10": {
+            "$value": "{Primitive.color.alpha.blue.10}"
+          },
+          "8": {
+            "$value": "{Primitive.color.alpha.blue.8}"
+          },
+          "6": {
+            "$value": "{Primitive.color.alpha.blue.6}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271820
+          }
+        },
+        "white": {
+          "50": {
+            "$value": "{Primitive.color.alpha.white.50}"
+          },
+          "20": {
+            "$value": "{Primitive.color.alpha.white.20}"
+          },
+          "16": {
+            "$value": "{Primitive.color.alpha.white.16}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271821
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271818
+        }
+      },
+      "status": {
+        "border": {
+          "danger": {
+            "subtle": {
+              "$value": "{Primitive.color.palette.red.40}"
+            },
+            "emphasized": {
+              "$value": "{Primitive.color.palette.red.70}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271824
+            }
+          },
+          "info": {
+            "subtle": {
+              "$value": "{Primitive.color.palette.blue.40}"
+            },
+            "emphasized": {
+              "$value": "{Primitive.color.palette.blue.60}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271825
+            }
+          },
+          "success": {
+            "subtle": {
+              "$value": "{Primitive.color.palette.green.40}"
+            },
+            "emphasized": {
+              "$value": "{Primitive.color.palette.green.60}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271826
+            }
+          },
+          "warning": {
+            "subtle": {
+              "$value": "{Primitive.color.palette.orange.40}"
+            },
+            "emphasized": {
+              "$value": "{Primitive.color.palette.orange.60}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271827
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271823
+          }
+        },
+        "content": {
+          "warning": {
+            "$value": "{Primitive.color.palette.orange.90}"
+          },
+          "error": {
+            "$value": "{Primitive.color.palette.red.70}"
+          },
+          "danger": {
+            "$value": "{Primitive.color.palette.red.90}"
+          },
+          "info": {
+            "$value": "{Primitive.color.palette.blue.90}"
+          },
+          "success": {
+            "$value": "{Primitive.color.palette.green.90}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271828
+          }
+        },
+        "icon": {
+          "warning": {
+            "$value": "{Primitive.color.palette.orange.90}"
+          },
+          "success": {
+            "$value": "{Primitive.color.palette.green.90}"
+          },
+          "danger": {
+            "$value": "{Primitive.color.palette.red.90}"
+          },
+          "info": {
+            "$value": "{Primitive.color.palette.blue.90}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271829
+          }
+        },
+        "surface": {
+          "warning": {
+            "$value": "{Primitive.color.palette.orange.30}"
+          },
+          "success": {
+            "$value": "{Primitive.color.palette.green.30}"
+          },
+          "info": {
+            "$value": "{Primitive.color.brand.20}"
+          },
+          "danger": {
+            "emphasized": {
+              "$value": "{Primitive.color.palette.red.70}"
+            },
+            "subtle": {
+              "$value": "{Primitive.color.palette.red.30}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271831
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271830
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271822
+        }
+      },
+      "surface": {
+        "selected": {
+          "$value": "{Primitive.color.brand.20}"
+        },
+        "progress": {
+          "$value": "{Primitive.color.palette.neutral.50}"
+        },
+        "page": {
+          "$value": "{Primitive.color.palette.neutral.30}"
+        },
+        "container": {
+          "inverse": {
+            "$value": "{Primitive.color.palette.neutral.90}"
+          },
+          "strong": {
+            "$value": "{Primitive.color.palette.neutral.50}"
+          },
+          "emphasis": {
+            "$value": "{Primitive.color.palette.neutral.40}"
+          },
+          "muted": {
+            "$value": "{Primitive.color.palette.neutral.30}"
+          },
+          "subtle": {
+            "$value": "{Primitive.color.palette.neutral.20}"
+          },
+          "default": {
+            "$value": "{Primitive.color.palette.neutral.10}"
+          },
+          "brand": {
+            "tertiary": {
+              "$value": "{Primitive.color.brand.90}"
+            },
+            "secondary": {
+              "$value": "{Primitive.color.palette.blue.90}"
+            },
+            "primary": {
+              "$value": "{Primitive.color.palette.blue.60}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271834
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271833
+          }
+        },
+        "elevated": {
+          "subtle": {
+            "$value": "{Primitive.color.palette.neutral.20}"
+          },
+          "default": {
+            "$value": "{Primitive.color.palette.neutral.10}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271835
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271832
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271805
+      }
+    },
+    "spacing": {
+      "gap": {
+        "xl": {
+          "$value": "{Primitive.spacing.24}"
+        },
+        "lg": {
+          "$value": "{Primitive.spacing.16}"
+        },
+        "md": {
+          "$value": "{Primitive.spacing.12}"
+        },
+        "sm": {
+          "$value": "{Primitive.spacing.8}"
+        },
+        "xs": {
+          "$value": "{Primitive.spacing.4}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271837
+        }
+      },
+      "inline": {
+        "xl": {
+          "$value": "{Primitive.spacing.24}"
+        },
+        "lg": {
+          "$value": "{Primitive.spacing.16}"
+        },
+        "md": {
+          "$value": "{Primitive.spacing.12}"
+        },
+        "sm": {
+          "$value": "{Primitive.spacing.8}"
+        },
+        "xs": {
+          "$value": "{Primitive.spacing.4}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271838
+        }
+      },
+      "inset": {
+        "xl": {
+          "$value": "{Primitive.spacing.24}"
+        },
+        "lg": {
+          "$value": "{Primitive.spacing.16}"
+        },
+        "md": {
+          "$value": "{Primitive.spacing.12}"
+        },
+        "sm": {
+          "$value": "{Primitive.spacing.8}"
+        },
+        "xs": {
+          "$value": "{Primitive.spacing.4}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271839
+        }
+      },
+      "layout": {
+        "container": {
+          "lg": {
+            "$value": "{Primitive.spacing.32}"
+          },
+          "md": {
+            "$value": "{Primitive.spacing.24}"
+          },
+          "sm": {
+            "$value": "{Primitive.spacing.16}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271841
+          }
+        },
+        "section": {
+          "xl": {
+            "$value": "{Primitive.spacing.80}"
+          },
+          "lg": {
+            "$value": "{Primitive.spacing.64}"
+          },
+          "md": {
+            "$value": "{Primitive.spacing.48}"
+          },
+          "sm": {
+            "$value": "{Primitive.spacing.32}"
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271842
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271840
+        }
+      },
+      "stack": {
+        "xl": {
+          "$value": "{Primitive.spacing.24}"
+        },
+        "lg": {
+          "$value": "{Primitive.spacing.16}"
+        },
+        "md": {
+          "$value": "{Primitive.spacing.12}"
+        },
+        "sm": {
+          "$value": "{Primitive.spacing.8}"
+        },
+        "xs": {
+          "$value": "{Primitive.spacing.4}"
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271843
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271836
+      }
+    },
+    "typography": {
+      "body": {
+        "lg": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.24}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.20}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271847
+            }
+          },
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.24}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.20}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271848
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271846
+          }
+        },
+        "md": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.24}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.16}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271850
+            }
+          },
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.24}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.16}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271851
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271849
+          }
+        },
+        "sm": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.20}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.14}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271853
+            }
+          },
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.20}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.14}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271854
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271852
+          }
+        },
+        "xs": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.16}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.12}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271856
+            }
+          },
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.16}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.12}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271857
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271855
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271845
+        }
+      },
+      "heading": {
+        "lg": {
+          "bold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.minus-2}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.28}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.24}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.700}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271860
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271859
+          }
+        },
+        "md": {
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.minus-1-half}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.24}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.20}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271862
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271861
+          }
+        },
+        "sm": {
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.20}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.16}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271864
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271863
+          }
+        },
+        "xl": {
+          "bold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.minus-2}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.32}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.28}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.700}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271866
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271865
+          }
+        },
+        "xs": {
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.16}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.14}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271868
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271867
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271858
+        }
+      },
+      "label": {
+        "md": {
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.pos-5-percent}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.14}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.12}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271871
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271870
+          }
+        },
+        "sm": {
+          "semibold": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.pos-5-percent}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.10}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.10}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.600}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271873
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271872
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271869
+        }
+      },
+      "link": {
+        "lg": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.24}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.20}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271876
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271875
+          }
+        },
+        "md": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.24}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.16}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271878
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271877
+          }
+        },
+        "sm": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.20}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.14}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271880
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271879
+          }
+        },
+        "xs": {
+          "regular": {
+            "text-transform": {
+              "$value": "{Primitive.typography.text-transform.none}"
+            },
+            "letter-spacing": {
+              "$value": "{Primitive.typography.letter-spacing.0}"
+            },
+            "line-height": {
+              "$value": "{Primitive.typography.line-height.16}"
+            },
+            "font-size": {
+              "$value": "{Primitive.typography.font-size.12}"
+            },
+            "font-weight": {
+              "$value": "{Primitive.typography.font-weight.400}"
+            },
+            "font-family": {
+              "$value": "{Primitive.typography.font-family.open-sans}"
+            },
+            "$extensions": {
+              "com.zeroheight.tokenGroupId": 3271882
+            }
+          },
+          "$extensions": {
+            "com.zeroheight.tokenGroupId": 3271881
+          }
+        },
+        "$extensions": {
+          "com.zeroheight.tokenGroupId": 3271874
+        }
+      },
+      "$extensions": {
+        "com.zeroheight.tokenGroupId": 3271844
+      }
+    },
+    "$extensions": {
+      "com.zeroheight.collectionId": 87555
+    }
+  },
+  "$extensions": {
+    "com.zeroheight.tokenSetId": 14290,
+    "com.zeroheight.tokenSetVersionId": 51091
+  }
+}
